@@ -3,4 +3,5 @@ department= CSE
 year=second year
 subject=Git
 repository history audit verification
+purpose :track and aduit repositoty chnages
 

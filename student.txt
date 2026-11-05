@@ -1,0 +1,4 @@
+student name= Preeti
+department= CSE
+year=second year
+subject=Git
